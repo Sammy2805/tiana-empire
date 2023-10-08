@@ -257,6 +257,7 @@ body{
   /* align-items: center; */
   justify-content: space-evenly;
   padding-top: 20px;
+  object-fit: cover;
   
 }
 .crocs-left{
@@ -264,6 +265,7 @@ body{
   width: 45%;
   border-radius: 30px;
   border: 3px solid black;
+  object-fit: cover;
 
 }
 a{
@@ -274,6 +276,7 @@ a{
   width: 45%;
   border-radius: 30px;
   border: 3px solid black;
+  object-fit: cover;
 }
 
 
